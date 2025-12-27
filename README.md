@@ -33,3 +33,18 @@ start_date,
 end_date,
 status,
 total_cost,
+# Implemented SQL Queries
+# 1. Retrieve Booking Information with Customer and Vehicle Names
+
+This query retrieves complete booking details along with the customer name and vehicle name using INNER JOIN.
+
+Concepts used:
+
+INNER JOIN
+
+Table aliasing
+
+Foreign key relationships
+
+Use case:
+Display booking history in a user-friendly format.
