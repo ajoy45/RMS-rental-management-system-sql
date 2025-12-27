@@ -61,3 +61,11 @@ Concepts used:
 COUNT()
 GROUP BY
 HAVING
+# How to Run the Project
+1.Create the database tables (users, vehicles, bookings).
+
+2.Insert sample data into each table.
+
+3.Execute the provided SQL queries in order.
+
+4.Analyse the query outputs to understand system behaviour.
